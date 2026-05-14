@@ -1,8 +1,100 @@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/MUTV.png" group-title="SPORTS",MUTV
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/MUTV.png" group-title="⚽ SPORTS",MUTV
 https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTMyODAxMTIifQ.CpuijBxTUYZTaso6UHbVTjXMcRD3m5x7cL4ygwCFL48/playlist-dash.mpd
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="4K超清",Sky Sports Main Event 4K UK
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="⚽ SPORTS",Sky Sports Main Event 4K UK
 https://xemzi.short.gy/2000015
 
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League 🇬🇧 (b2)
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League 🇬🇧 (b2)
 http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7335/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO East
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+#EXTINF:-1 tvg-id="HBO.West.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO West
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama" tvg-logo="https://static.hbo.com/2025-09/HBO_Drama_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Drama
+http://1tv41.icu:8080/live/Y06DNq/295733/9266.rtmp
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://static.hbo.com/2025-09/HBO_Comedy_Plex_Logo_bw_1.svg" group-title="🎬 MOVIES",HBO Comedy
+http://1tv41.icu:8080/live/Y06DNq/295733/17773.rtmp
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Movies
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23299
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="🎬 MOVIES",Paramount+ with Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="🎬 MOVIES",Showtime 2
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="🎬 MOVIES",Showtime Extreme
+http://1tv41.icu:8080/live/Y06DNq/295733/13220.rtmp
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="🎬 MOVIES",Showtime Next
+http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHOxBET" tvg-logo="http://iptvboss.xyz/logos/USA/SHOxBET.us.png" group-title="🎬 MOVIES",SHOxBET
+http://epicboss.live/bjune@teksavvy.com/5193594414/50999
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="🎬 MOVIES",Showtime Women
+http://1tv41.icu:8080/Y06DNq/295733/17778
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="🎬 MOVIES",Showtime Family Zone
+http://1tv41.icu:8080/Y06DNq/295733/13481
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="🎬 MOVIES",Showtime Showcase
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="🎬 MOVIES",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/250px-Starz_Edge_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Edge
+http://1tv41.icu:8080/Y06DNq/295733/16143
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz in Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/250px-Starz_in_Black_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz in Black
+http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/250px-Starz_Comedy_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Comedy
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14917
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Cinema
+http://fastream.xyz:8080/998742589tv1/58520km/206
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/250px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Kids & Family
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14919
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162587
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/250px-Starz_Encore_Action_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore Action
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14923
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/250px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore Classic
+http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/250px-Starz_Encore_Black_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore Black
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216179
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/250px-Starz_Encore_Family_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore Family
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216178
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/250px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore Suspense
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14924
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/250px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore Westerns
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14922
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="🎬 MOVIES",Cinemax
+http://1tv41.icu:8080/live/Y06DNq/295733/13380.rtmp
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg" group-title="🎬 MOVIES",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Action_Plex_Logo_bw.svg" group-title="🎬 MOVIES",Cinemax Action
+http://1tv41.icu:8080/Y06DNq/295733/21013
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/09/cinemax_classics-logo_brandlogos.net_nehp2.png" group-title="🎬 MOVIES",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="🎬 MOVIES",MGM+
+http://epicboss.live/bjune@teksavvy.com/5193594414/19074
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="🎬 MOVIES",MGM+ Hits
+http://1tv41.icu:8080/live/Y06DNq/295733/12744.rtmp
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" group-title="🎬 MOVIES",MGM+ Marquee
+http://1tv41.icu:8080/live/Y06DNq/295733/12730.rtmp
+#EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="🎬 MOVIES",MGM+ Drive-In
+http://epicboss.live/bjune@teksavvy.com/5193594414/115154
+#EXTINF:-1 tvg-id="ScreenPix.us2" tvg-name="ScreenPix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-us.png?raw=true" group-title="🎬 MOVIES",ScreenPix
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130052
+#EXTINF:-1 tvg-id="ScreenPix.Action.us2" tvg-name="ScreenPix Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-action-us.png?raw=true" group-title="🎬 MOVIES",ScreenPix Action
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130051
+#EXTINF:-1 tvg-id="ScreenPix.Voices.us2" tvg-name="ScreenPix Voices" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-voices-us.png?raw=true" group-title="🎬 MOVIES",ScreenPix Voices
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130053
+#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="🎬 MOVIES",ScreenPix Westerns
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130054
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/plex-movieplex-us.png?raw=true" group-title="🎬 MOVIES",MoviePlex
+http://1tv41.icu:8080/Y06DNq/295733/1829
+#EXTINF:-1 tvg-id="IndiePlex.HD.us2" tvg-name="IndiePlex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/plex-indieplex-us.png?raw=true" group-title="🎬 MOVIES",IndiePlex
+http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/195464
+#EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RetroPlex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/plex-retroplex-us.png?raw=true" group-title="🎬 MOVIES",RetroPlex
+http://1tv41.icu:8080/Y06DNq/295733/66379
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/500px-TCM_2021.svg.png" group-title="🎬 MOVIES",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="🎬 MOVIES",The Movie Channel
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130063
