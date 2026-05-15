@@ -136,6 +136,11 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF: tvg-id="ts174" tvg-name="Romedy Now" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="🎬 MOVIES",ROMEDY NOW
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="🎬 MOVIES" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts 
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="🎬 MOVIES" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47813.ts
+
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="🎬 MOVIES",Paramount+ with Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="🎬 MOVIES",Showtime 2
