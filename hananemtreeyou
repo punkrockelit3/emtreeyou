@@ -17,12 +17,23 @@ https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ez2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Hits West
+#EXTINF:-1 tvg-id="HBOHits.asia" tvg-name="HBO Hits" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Hits West
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Hits" tvg-logo="https://i.pinimg.com/474x/e5/af/d6/e5afd620103cbcf76cca34562b65af3e.jpg" group-title="🎬 MOVIES",HBO Hits East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
 #EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama" tvg-logo="https://static.hbo.com/2025-09/HBO_Drama_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Drama
-http://1tv41.icu:8080/live/Y06DNq/295733/9266.rtmp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://static.hbo.com/2025-09/HBO_Comedy_Plex_Logo_bw_1.svg" group-title="🎬 MOVIES",HBO Comedy
-http://1tv41.icu:8080/live/Y06DNq/295733/17773.rtmp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Movies
 http://kstv.us:8080/4VUyfZBQzk/95104974615/23299
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="🎬 MOVIES",Paramount+ with Showtime
@@ -101,3 +112,11 @@ http://1tv41.icu:8080/Y06DNq/295733/66379
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="🎬 MOVIES",The Movie Channel
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130063
+
+## XXXXXXX ###
+#EXTINF:-1 tvg-id="LeanaLovings" tvg-name="Leana Lovings" tvg-logo="https://toppng.com/uploads/preview/playboy-logo-vector-free-download-11574243717sr9ul5ibx9.jpg" group-title="ADULT", Leana Lovings
+http://cord-cutter.net:8080/3HWgqd/245797/215617
+#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-name="Brazzers TV Europe" tvg-logo="https://www.cableman.ru/sites/default/files/brazzers_tv.png" group-title="ADULT", Brazzers TV Europe
+https://video.beeline.tv/live/d/channel012.isml/manifest-stb.mpd
+#EXTINF:-1 tvg-id="playboy-tv" tvg-name="Playboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Play_Boy_TV_logo_2016.svg" group-title="ADULT", Playboy TV
+https://video.beeline.tv/live/d/channel047.isml/manifest-stb.mpd
