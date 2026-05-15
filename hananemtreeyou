@@ -1,12 +1,23 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
 
+
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="⚽ SPORTS", Hub Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
+#EXTINF:-1tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2"  tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="⚽ SPORTS", Hub Premier 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/MUTV.png" group-title="⚽ SPORTS",MUTV
 https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTMyODAxMTIifQ.CpuijBxTUYZTaso6UHbVTjXMcRD3m5x7cL4ygwCFL48/playlist-dash.mpd
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="⚽ SPORTS",Sky Sports Main Event 4K UK
 https://xemzi.short.gy/2000015
 
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League 🇬🇧 (b2)
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League 🇬🇧 (b2)
 http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO East
@@ -19,7 +30,7 @@ https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ez2
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 #EXTINF:-1 tvg-id="HBOHits.asia" tvg-name="HBO Hits" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Hits West
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Hits" tvg-logo="https://i.pinimg.com/474x/e5/af/d6/e5afd620103cbcf76cca34562b65af3e.jpg" group-title="🎬 MOVIES",HBO Hits East
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-logo="https://i.pinimg.com/474x/e5/af/d6/e5afd620103cbcf76cca34562b65af3e.jpg" group-title="🎬 MOVIES",HBO Hits East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
@@ -36,6 +47,46 @@ https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o6r
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Movies
 http://kstv.us:8080/4VUyfZBQzk/95104974615/23299
+
+
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="🎬 MOVIES",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg" group-title="🎬 MOVIES",Cinemax Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Action_Plex_Logo_bw.svg" group-title="🎬 MOVIES",Cinemax Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
+#EXTINF:-1 tvg-id="Cinemax.West.us2" tvg-name="Cinemax West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="🎬 MOVIES",Cinemax West
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://i.pinimg.com/236x/b4/4f/8b/b44f8bdfc1cd7fc12e8fb52446b270d2.jpg" group-title="🎬 MOVIES",MN+ 
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://i.pinimg.com/236x/bc/a6/46/bca646faec18d4a728e58e8f5e472793.jpg" group-title="🎬 MOVIES", MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://i.pinimg.com/236x/29/b2/18/29b218fea41f9c5b1db7c46f69fbc7e4.jpg" group-title="🎬 MOVIES", MOVIES NOW
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF: tvg-id="ts174" tvg-name="Romedy Now" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="🎬 MOVIES",ROMEDY NOW
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="🎬 MOVIES",Paramount+ with Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="🎬 MOVIES",Showtime 2
@@ -78,14 +129,6 @@ http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216178
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14924
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/250px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="🎬 MOVIES",Starz Encore Westerns
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14922
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="🎬 MOVIES",Cinemax
-http://1tv41.icu:8080/live/Y06DNq/295733/13380.rtmp
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg" group-title="🎬 MOVIES",Cinemax Hits
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Action_Plex_Logo_bw.svg" group-title="🎬 MOVIES",Cinemax Action
-http://1tv41.icu:8080/Y06DNq/295733/21013
-#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/09/cinemax_classics-logo_brandlogos.net_nehp2.png" group-title="🎬 MOVIES",Cinemax Classics
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="🎬 MOVIES",MGM+
 http://epicboss.live/bjune@teksavvy.com/5193594414/19074
 #EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="🎬 MOVIES",MGM+ Hits
@@ -114,9 +157,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130063
 
 ## XXXXXXX ###
-#EXTINF:-1 tvg-id="LeanaLovings" tvg-name="Leana Lovings" tvg-logo="https://toppng.com/uploads/preview/playboy-logo-vector-free-download-11574243717sr9ul5ibx9.jpg" group-title="ADULT", Leana Lovings
+#EXTINF:-1 tvg-id="LeanaLovings" tvg-name="Leana Lovings" tvg-logo="https://toppng.com/uploads/preview/playboy-logo-vector-free-download-11574243717sr9ul5ibx9.jpg" group-title="🔞 ADULT", Leana Lovings
 http://cord-cutter.net:8080/3HWgqd/245797/215617
-#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-name="Brazzers TV Europe" tvg-logo="https://www.cableman.ru/sites/default/files/brazzers_tv.png" group-title="ADULT", Brazzers TV Europe
+#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-name="Brazzers TV Europe" tvg-logo="https://www.cableman.ru/sites/default/files/brazzers_tv.png" group-title="🔞 ADULT", Brazzers TV Europe
 https://video.beeline.tv/live/d/channel012.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="playboy-tv" tvg-name="Playboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Play_Boy_TV_logo_2016.svg" group-title="ADULT", Playboy TV
+#EXTINF:-1 tvg-id="playboy-tv" tvg-name="Playboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Play_Boy_TV_logo_2016.svg" group-title="🔞 ADULT", Playboy TV
 https://video.beeline.tv/live/d/channel047.isml/manifest-stb.mpd
