@@ -66,7 +66,7 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="⚽ SPORTS",Sky Sports Main Event 4K UK
 https://xemzi.short.gy/2000015
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League 🇬🇧 (b2)
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League 🇬🇧 (b2)
 http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO East
@@ -140,6 +140,23 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="🎬 MOVIES" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47813.ts
+
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="🎬 MOVIES",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="🎬 MOVIES" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png",Sony Pix HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://alex4528.site/jplus/license
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/lOOLooI0lOll00iLlOio/manifest.mpd
+https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="🎬 MOVIES",Star Movies HD (1080p)
+http://149.71.34.166:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="🎬 MOVIES",Star Movies Select HD (1080p)
+http://149.71.34.166:8000/play/a01g/index.m3u8
+http://103.113.103.202:8001/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="🎬 MOVIES",Paramount+ with Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
