@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
+https://dl.dropboxusercontent.com/scl/fi/21bcxeclnztxh2f1krous/HUB_PREM_1.m3u8?rlkey=w7b8uzyfr1txkf24lsng4w19r&st=dmtlndxs
 #EXTINF:-1tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2"  tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="⚽ SPORTS", Hub Premier 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 
@@ -68,9 +68,10 @@ https://xemzi.short.gy/2000015
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League 🇬🇧 (b2)
 http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7335/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League (Backup)
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/702
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO East
-http://23.237.104.106:8080/USA_HBO/index.m3u8
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
 #EXTINF:-1 tvg-id="HBO.West.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO West
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -95,8 +96,10 @@ https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o6r
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="🎬 MOVIES",HBO Movies
-http://kstv.us:8080/4VUyfZBQzk/95104974615/23299
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="🎬 MOVIES",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -140,6 +143,8 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="🎬 MOVIES" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47813.ts
+#EXTINF:-1 group-title="🎬 MOVIES" tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://i.ibb.co/qLj586sK/sky-cinema-select.png" tvg-name="Sky Cinema Select",Sky Select lun.
+http://lunar.pm:8080/Tedandjon/Together2/20916
 
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="🎬 MOVIES",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
@@ -149,14 +154,28 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTVLCOPT:http-referrer=https://alex4528.site/jplus/license
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOOLooI0lOll00iLlOio/manifest.mpd
-https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
+https://p4kp.rjmbts.workers.dev/22124.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="🎬 MOVIES",Star Movies HD (1080p)
-http://149.71.34.166:8000/play/a01f/index.m3u8
+https://p4kp.rjmbts.workers.dev/349.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="🎬 MOVIES",Star Movies Select HD (1080p)
-http://149.71.34.166:8000/play/a01g/index.m3u8
-http://103.113.103.202:8001/play/a02i/index.m3u8
+https://p4kp.rjmbts.workers.dev/353.m3u8
+
+#EXTINF:-1 tvg-id="0bc360453604d73e" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="🎬 MOVIES",Sony One | Action HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-id="e23d4337e50c0081" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="🎬 MOVIES",Sony One | Comedy HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-id="82950268fd411b94" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="🎬 MOVIES",Sony One | Comedy TV
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-id="5bce36e03ca74490" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="🎬 MOVIES",Sony One | FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-id="82b1d0bb4e7683ef" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="🎬 MOVIES",Sony One | Thriller TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+
+#EXTINF:-1 group-title="NITRO" tvg-logo="",Amazon Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="🎬 MOVIES",Paramount+ with Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
@@ -229,11 +248,90 @@ http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130063
 
 ## XXXXXXX ###
 #EXTINF:-1 tvg-id="LeanaLovings" tvg-name="Leana Lovings" tvg-logo="https://live.fanmingming.cn/tv/X4 | Leana Lovings.png" group-title="🔞 ADULT", Leana Lovings
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/215617
-http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/215617
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/856028
 #EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-name="Brazzers TV Europe" tvg-logo="https://www.cableman.ru/sites/default/files/brazzers_tv.png" group-title="🔞 ADULT", Brazzers TV Europe
-http://tv.proyectox.vip:8080/salva1/cyLvVP94yy/164503
-http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159966
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/684962
 #EXTINF:-1 tvg-id="playboy-tv" tvg-name="Playboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Play_Boy_TV_logo_2016.svg" group-title="🔞 ADULT", Playboy TV
-http://tv.proyectox.vip:8080/salva1/cyLvVP94yy/163955
-http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850119
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Passion XXX
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850138
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Nubile Films
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850148
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Nubiles TV HD
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850147
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Naughty America
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850151
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" ggroup-title="🔞 ADULT", Moms Teach Sex
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850155
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Hustler HD
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850184
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Hustler TV
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850183
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Family XXX
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850215
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Digital Playground HD
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850246
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Bratty Sis
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850267
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Barely Legal TV
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850276
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Nubile Films
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850303
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Babes HD
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850287
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Vivid TV Europe
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850063
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", STEB SIBLINGS CAUGHT
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849928
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", NEW SENSATIONS
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849958
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", NF BUSTY
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849956
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", NUBILE FILMS
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849955
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", NURU MASSAGE
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849952
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", PASSION
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849951
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", PASSION
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849950
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" ggroup-title="🔞 ADULT", MUST NOT FAP
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849966
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | Sis Loves Me
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855896
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | New Sensations
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855961
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | Family Strokes
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/856094
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | Casting
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/856146
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT" X4 | Casting Couch
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/856145
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | Blake Blossom
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/856164
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX 4K: SPY FAM
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855697
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT"", PORNBOX 4K: TINY 4K
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855696
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: MY FAMILY PIES
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855761
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" ggroup-title="🔞 ADULT", PORNBOX: MY PERVY FAMILY
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855760
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: NF BUSTY
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855759
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: FAMILY STROKES
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855775
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: FAMILY SWAP XXX
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855786
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: BRATTY SIS
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855791
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT"", PORNBOX: CUM 4K
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855789
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: BABES
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855800
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: PURE MATURE
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855799
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | Team Skeet
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855880
+#EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | The White Boxxx
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855878
