@@ -172,7 +172,7 @@ https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="82b1d0bb4e7683ef" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="🎬 MOVIES",Sony One | Thriller TV
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 
-#EXTINF:-1 group-title="NITRO" tvg-logo="",Amazon Movies
+#EXTINF:-1 group-title="🎬 MOVIES" tvg-logo="",Amazon Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
@@ -261,7 +261,7 @@ http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850148
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850147
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Naughty America
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850151
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" ggroup-title="🔞 ADULT", Moms Teach Sex
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Moms Teach Sex
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850155
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", Hustler HD
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/850184
@@ -295,7 +295,7 @@ http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849952
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849951
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", PASSION
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849950
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" ggroup-title="🔞 ADULT", MUST NOT FAP
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Ozel/adult.png" group-title="🔞 ADULT", MUST NOT FAP
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/849966
 #EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="🔞 ADULT", X4 | Sis Loves Me
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855896
@@ -315,7 +315,7 @@ http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855697
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855696
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: MY FAMILY PIES
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855761
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" ggroup-title="🔞 ADULT", PORNBOX: MY PERVY FAMILY
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: MY PERVY FAMILY
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855760
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/18.png" group-title="🔞 ADULT", PORNBOX: NF BUSTY
 http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/855759
