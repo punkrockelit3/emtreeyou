@@ -93,8 +93,11 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="⚽️ World Cup 2026",BeIN Sports 5
+#EXTINF:-1 tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="⚽️ World Cup 2026",BeIN Sports 5 HD
 http://9923709.m10vn.cc/live/JtsMvwFu/qcNvFtMb/1398591.ts?token=ShoJV0NcEgMVWlwHVVQEAQNWBlwFVlVTBw0DVAkAUl0EDFhXAgEFXw8aSUEXREVVBwg6DFUXC1UADAhTAQROR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFRUAAxUBxwWQFBTGl9BVgIAA19QVkcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1RWBgATSBFWXxNWQRAcEwJDY2MWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEXVBRAgADRk4=
+
+#EXTINF:-1 tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="⚽️ World Cup 2026",BeIN Sports 5 FHD
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="⚽️ World Cup 2026",BBC One UK
 https://xemzi.short.gy/ppv1
@@ -105,6 +108,12 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="⚽️ World Cup 2026",Fussball.TV 1 (4K)
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" tvg-id="RTBGo.bn" group-title="⚽️ World Cup 2026",RTB Go Live HD
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo="ttps://i.ibb.co/C32Rhtff/1000284518.png" tvg-id="ch11" group-title="⚽️ World Cup 2026",NOW TV 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
