@@ -8,6 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://dl.dropboxusercontent.com/scl/fi/21bcxeclnztxh2f1krous/HUB_PREM_1.m3u8?rlkey=w7b8uzyfr1txkf24lsng4w19r&st=dmtlndxs
+
 #EXTINF:-1tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2"  tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="⚽ SPORTS", Hub Premier 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 
@@ -50,15 +51,15 @@ https://restream-live.realiptv.to/2879115/5077048/3712
 https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F7f3Wv6f7QEKfQna22jHqLQ%2Fmaster.m3u8&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=86.48.9.131
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="⚽ SPORTS",TSN1 CA
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/430
+https://pal6.short.gy/tsn1ca
 #EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN2 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="⚽ SPORTS",TSN2 CA
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/431
+https://pal6.short.gy/tsn2ca
 #EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN3 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="⚽ SPORTS",TSN3 CA
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/432
+https://pal6.short.gy/tsn3ca
 #EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN4 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="⚽ SPORTS",TSN4 CA
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/433
+https://pal6.short.gy/tsn4ca
 #EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN5 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="⚽ SPORTS",TSN5 CA
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/434
+https://pal6.short.gy/tsn5ca
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/MUTV.png" group-title="⚽ SPORTS",MUTV
 https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTMyODAxMTIifQ.CpuijBxTUYZTaso6UHbVTjXMcRD3m5x7cL4ygwCFL48/playlist-dash.mpd
@@ -70,6 +71,45 @@ https://xemzi.short.gy/2000015
 http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7335/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League (Backup)
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/702
+
+#EXTINF:-1 group-title="⚽️ World Cup 2026" tvg-logo="https://tv.cic.net.id/uploads/RTM_SPORT_MY.png" ,RTM SPORT
+http://iptv.kilas7.com:80/kaukia/asdfrewq/31
+
+#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="⚽️ World Cup 2026",CIGNAL TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWe_KIY6yur5PLaKnz1rQNL4OBJbaUz07qOtCr-msxVzVtbKVpWS7lZ3Z&s=10" group-title="⚽️ World Cup 2026", CIGNAL TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.pinimg.com/474x/27/c9/2b/27c92bcf079932c394832ac3ad086ad3.jpg" group-title="⚽️ World Cup 2026", DSPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="dsport2" tvg-logo="https://i.pinimg.com/474x/27/c9/2b/27c92bcf079932c394832ac3ad086ad3.jpg" group-title="⚽️ World Cup 2026", DSPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="⚽️ World Cup 2026",BeIN Sports 5
+http://9923709.m10vn.cc/live/JtsMvwFu/qcNvFtMb/1398591.ts?token=ShoJV0NcEgMVWlwHVVQEAQNWBlwFVlVTBw0DVAkAUl0EDFhXAgEFXw8aSUEXREVVBwg6DFUXC1UADAhTAQROR0RLBERvXVQbDRpcWlYDAABfR0lHRVxcAREPAVEABFRUAAxUBxwWQFBTGl9BVgIAA19QVkcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1RWBgATSBFWXxNWQRAcEwJDY2MWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEXVBRAgADRk4=
+
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="⚽️ World Cup 2026",BBC One UK
+https://xemzi.short.gy/ppv1
+http://kytv.xyz:80/brendan1/brendan1/2104319.ts
+
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="⚽️ World Cup 2026",Supersport Grandstand
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1117785769&size=240&m=134260664554231775&x=754KKSp43JDH2IlyO5c6f3GKeuHMf6Tl" tvg-id="SportdigitalFUSSBALL.de@HD" group-title="⚽️ World Cup 2026",Sportdigital FUSSBALL TV1 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO East
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
@@ -245,6 +285,49 @@ http://1tv41.icu:8080/Y06DNq/295733/66379
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="🎬 MOVIES",The Movie Channel
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/130063
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=ria
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=prima
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="📡 ASTRO CHANNEL" group-logo="" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=citra
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="113.astro" ch-number="113" group-title="📡 ASTRO CHANNEL" tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Aura HD (Not 24H)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=rania
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="📡 ASTRO CHANNEL" ch-number="404",404 BOO (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=boo
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=ceria
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/VY44LJxt/Astro-Arena-1-2024.png",801 Arena HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/Zzm43tN8/Astro-Arena-2-2024.png",802 Arena 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=bola1
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="📡 ASTRO CHANNEL",804 Arena Bola 2 HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=bola2
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="📡 ASTRO CHANNEL",810 Grandstand HD
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="📡 ASTRO CHANNEL",811 Premier League HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=epl1
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=epl2
+#EXTINF:-1 tvg-id="AstroPremierLeague3" ch-number="813" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",813 Premier League 3 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/gM7nf1C4/Astro-Football-2024.png",814 Football HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=badminton
+#EXTINF:-1 tvg-id="AstroBadminton2" tvg-name="ASSP6 HD" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png" ch-number="816",816 Badminton 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+#EXTINF:-1 group-title="📡 ASTRO CHANNEL" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://i.ibb.co/bgJhyJCq/Astro-Sports-Plus-2024.png",817 Sports Plus HD
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroPremierLeague4" tvg-name="AstroPremierLeague4" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" ch-number="818",818 Premier League 4 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroPremierLeague5" tvg-name="AstroPremierLeague5" group-title="📡 ASTRO CHANNEL" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" ch-number="819",819 Premier League 5 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 
 ## XXXXXXX ###
 #EXTINF:-1 tvg-id="LeanaLovings" tvg-name="Leana Lovings" tvg-logo="https://live.fanmingming.cn/tv/X4 | Leana Lovings.png" group-title="🔞 ADULT", Leana Lovings
