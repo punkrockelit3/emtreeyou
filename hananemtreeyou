@@ -68,21 +68,20 @@ http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7335/index.m3u8
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/702
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1tvg-id="SUKAN.Mana2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/RTM_Sukan_Plus_%282026%29.png" group-title="⚽️ World Cup 2026"
+#EXTINF:-1tvg-id="SUKAN.Mana2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/RTM_Sukan_Plus_%282026%29.png" group-title="⚽️ World Cup 2026", SUKAN
 http://iptv.kilas7.com:80/kaukia/asdfrewq/31
 
-#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="⚽️ World Cup 2026",CIGNAL TV
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-uid="e7db9d457e7674971e082eda6f4c5e2e" data-source="Sportzx" tvg-id="portugalvscroatia0000tsnsportsfhd" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="⚽️ World Cup 2026",TSN 1 CANADA FHD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 data-source="Manual"  group-title="⚽️ World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="63fc442a4b5423c6fa4ab6298815b38f", World Cup TV Philippines
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWe_KIY6yur5PLaKnz1rQNL4OBJbaUz07qOtCr-msxVzVtbKVpWS7lZ3Z&s=10" group-title="⚽️ World Cup 2026", CIGNAL TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://i.pinimg.com/474x/27/c9/2b/27c92bcf079932c394832ac3ad086ad3.jpg" group-title="⚽️ World Cup 2026", DSPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -196,6 +195,14 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
+#EXTINF:-1 data-source="Manual" group-title="⚽️ World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",RTE 2 UnitedKingdom
+http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120271.ts
+
+#EXTINF:-1 data-source="Manual" group-title="⚽️ World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",RTE 1 NEWS UnitedKingdom
+http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120270.ts
+
+#EXTINF:-1 data-source="Manual" group-title="⚽️ World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="3a724ea71b8486260c47feeb9773cb04",beIN SPORT 5 English
+https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="🎬 MOVIES",HBO East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
