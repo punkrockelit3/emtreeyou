@@ -8,20 +8,16 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 1 🇬🇧
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://n100.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=65ZUbzEErnqUIDixnKB9OQ&expires=1776505569
+http://wickediptv.xyz/Randall123/Randall321/53850
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 2 🇬🇧
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://n100.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=2QzLRYu3UesszO2sf9Y-Lw&expires=1776505569
+http://wickediptv.xyz/Randall123/Randall321/53851
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 3 🇬🇧
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://n100.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=JNbOHibITRC26FfxR61Wvw&expires=1776505570
+http://wickediptv.xyz/Randall123/Randall321/53852
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 4 🇬🇧
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://n100.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=jELGKZRXjfSljejfrKVKaA&expires=1776505570
+http://wickediptv.xyz/Randall123/Randall321/53853
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/500px-CBS_Sports_Network_2021.svg.png" group-title="⚽ SPORTS",CBS Sports Network
 https://restream-live.realiptv.to/2879115/5077048/3712
