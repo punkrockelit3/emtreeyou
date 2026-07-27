@@ -20,10 +20,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="LOCAL" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-http://ktpremium.site:2095/live/QZM197/629ebdk/912827.ts?token=GEFeAEAMEQ5EVgBUVg5fBwJSVgUEAAdWVgNRUFIAA1RTBVAFAFcHVQMRFUcSTBRRUgg6WwEVC1YEBgAETRQXEAYRaQhXRgkWUwUMVFUaShZHDAhXRw0AVgEGBQNRAlRTT0FGCFdGCRZSBg1WWRpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1MPVwMRSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRREUgRWQdLZgYOVghRUBEMXQtEE1sVAhIeQ1sNDQoXWRNsFFpQRAkbVlcMVAARGA==
+http://syok.tv:25461/843839483/33999/6
 
 #EXTINF:-1 group-title="LOCAL" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 BACKUP
-http://ktpremium.site:2095/live/QZM197/629ebdk/912828.ts?token=GEFeAEAMEQ5EVgBUVg5fBwJSVgUEAAdWVgNRUFIAA1RTBVAFAFcHVQMRFUcSTBRRUgg6WwEVC1YEBgAETRQXEAYRaQhXRgkWUwUMVFUaShZHDAhXRw0AVgEGBQNRAlRTT0FGCFdGCRZSBg1WWRpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1MPVwMRSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRREUgRWQdLZgYOVghRUBEMXQtEE1sVAhIeQ1sNDQoXWRNsFFpQRAkbVlcMVAARGA==
+http://syok.tv:25461/843839483/33999/5
 
 #EXTINF:-1 group-title="LOCAL" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.png",TVS
 http://syok.tv:25461/843839483/33999/30
@@ -551,6 +551,7 @@ http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47813.ts
 #EXTINF:-1 group-title="🎬 MOVIES" tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://i.ibb.co/qLj586sK/sky-cinema-select.png" tvg-name="Sky Cinema Select",Sky Select
 http://lunar.pm:8080/Tedandjon/Together2/20916
+
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="🎬 MOVIES" tvg-logo="https://lo1.in/ger/skycnpl2.png",Sky Cinema Premiere (Backup)
 http://liontv.es:8080/Isabellagos/tSjdeprawg/1620660
 #EXTINF:-1 tvg-id="Sky.Cinema.Family.uk" group-title="🎬 MOVIES" tvg-logo="https://lo1.in/ger/skycnfm.png",SKY CINEMA FAMILY FHD
