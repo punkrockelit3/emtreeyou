@@ -1,22 +1,23 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
+#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://walpak1.github.io/epg/starhub.xml,https://www.open-epg.com/files/indonesia.xml" refresh="1440" vod_library="https://ediey7523017.github.io/mytv/HBO_MAX.m3u,https://ediey7523017.github.io/mytv/VOD_Others.m3u,https://ediey7523017.github.io/mytv/VOD_Astro.m3u,https://ediey7523017.github.io/mytv/VOD_Collection.m3u,https://ediey7523017.github.io/mytv/VOD_Asean.m3u,https://ediey7523017.github.io/mytv/VOD_English.m3u,https://ediey7523017.github.io/mytv/VOD_Indian.m3u,https://ediey7523017.github.io/mytv/VOD_Kids.m3u" billed-msg="JJ EDIEY 87 Editor"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://i.mjh.nz/all/epg.xml.gz"
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
 #------------LOCAL MY-----------#
 
-#EXTINF:-1 group-title="LOCAL" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+#EXTINF:-1 group-title="LOCAL" tvg-id="TV1.rtm" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="LOCAL" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1 BACKUP
+#EXTINF:-1 group-title="LOCAL" tvg-id="TV1.rtm" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1 BACKUP
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="LOCAL" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+#EXTINF:-1 group-title="LOCAL" tvg-id="TV2.rtm" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 group-title="LOCAL" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2 BACKUP
+#EXTINF:-1 group-title="LOCAL" tvg-id="TV2.rtm" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2 BACKUP
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="LOCAL" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
@@ -69,7 +70,8 @@ https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #------------ASTRO (TOKEN)-----------#
-#EXTINF:-1 tvg-id="astro622" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 Astro30
+
+#EXTINF:-1 tvg-id="astro622" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 Astro30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -95,17 +97,17 @@ http://syok.tv:25461/843839483/33999/10
 http://syok.tv:25461/843839483/33999/12
 #EXTINF:-1 tvg-id="OKEY" tvg-name="MY: Okey Tv" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="MALAYSIA", MY: Okey Tv
 http://syok.tv:25461/843839483/33999/14
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="MY: Astro Ria [A]" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA", MY: Astro Ria [A]
+#EXTINF:-1 tvg-id="astro193" tvg-name="MY: Astro Ria [A]" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA", MY: Astro Ria [A]
 http://syok.tv:25461/843839483/33999/18
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="MY: Astro Ria [B]" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA", MY: Astro Ria [B]
+#EXTINF:-1 tvg-id="astro193" tvg-name="MY: Astro Ria [B]" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA", MY: Astro Ria [B]
 http://syok.tv:25461/843839483/33999/19
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="MY: Astro Prima [A]" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA", MY: Astro Prima [A]
+#EXTINF:-1 tvg-id="astro316" tvg-name="MY: Astro Prima [A]" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA", MY: Astro Prima [A]
 http://syok.tv:25461/843839483/33999/20
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="MY: Astro Prima [B]" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA", MY: Astro Prima [B]
+#EXTINF:-1 tvg-id="astro316" tvg-name="MY: Astro Prima [B]" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA", MY: Astro Prima [B]
 http://syok.tv:25461/843839483/33999/21
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="MY: Astro Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA", MY: Astro Oasis
 http://syok.tv:25461/843839483/33999/25
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="MY: Astro Citra" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA", MY: Astro Citra
+#EXTINF:-1 tvg-id="astro301" tvg-name="MY: Astro Citra" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA", MY: Astro Citra
 http://syok.tv:25461/843839483/33999/26
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="MY: Astro Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="MALAYSIA", MY: Astro Rania
 http://syok.tv:25461/843839483/33999/27
@@ -113,7 +115,7 @@ http://syok.tv:25461/843839483/33999/27
 http://syok.tv:25461/843839483/33999/28
 #EXTINF:-1 tvg-id="KITA" tvg-name="MY: Astro BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA", MY: Astro BOO
 http://syok.tv:25461/843839483/33999/29
-#EXTINF:-1 tvg-id="TVS" tvg-name="MY: TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA", MY: TVS
+#EXTINF:-1 tvg-id="astro429" tvg-name="MY: TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA", MY: TVS
 http://syok.tv:25461/843839483/33999/30
 #EXTINF:-1 tvg-id="BernamaTV" tvg-name="MY: Bernama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/800px-Bernama_TV.png" group-title="MALAYSIA", MY: Bernama
 http://syok.tv:25461/843839483/33999/46
@@ -154,7 +156,7 @@ http://syok.tv:25461/843839483/33999/32
 #EXTINF:-1 tvg-id="None" tvg-name="Okay TV[B]" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="MALAYSIA", Okay TV[B]
 http://syok.tv:25461/843839483/33999/23290
 
-#------------ASTRO (TOKEN)-----------#
+#------------ASTRO SPORTS (TOKEN)-----------#
 
 #EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="Sports" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_sports.png",801 Astro Arena
 http://syok.tv:25461/843839483/33999/121
@@ -181,15 +183,15 @@ http://syok.tv:25461/843839483/33999/16008
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",810 Astro Grandstand
 http://syok.tv:25461/843839483/33999/639
 
-#EXTINF:-1 tvg-id="AstroPremierLeague" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League  
+#EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League  
 http://syok.tv:25461/843839483/33999/637
 
-#EXTINF:-1 tvg-id="AstroPremierLeague2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2
+#EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2
 http://syok.tv:25461/843839483/33999/638
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png",813 Astro Premier League 3
 
-#EXTINF:-1 tvg-id="AstroFootball" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",814 Astro Football
+#EXTINF:-1 tvg-id="astro539" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",814 Astro Football
 http://syok.tv:25461/843839483/33999/640
 
 #EXTINF:-1 tvg-id="AstroBadminton" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",815 Astro Badminton
@@ -198,10 +200,10 @@ http://syok.tv:25461/843839483/33999/22627
 #EXTINF:-1 tvg-id="AstroBadminton2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png",816 Astro Badminton 2
 http://syok.tv:25461/843839483/33999/22628
 
-#EXTINF:-1 tvg-id="AstroSportsPlus" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",817 Astro Sports Plus
+#EXTINF:-1 tvg-id="astro542" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",817 Astro Sports Plus
 http://syok.tv:25461/843839483/33999/22629
 
-#EXTINF:-1 tvg-id="AstroSportsPlus2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",818 Astro Sports Plus 2
+#EXTINF:-1 tvg-id="astro280" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",818 Astro Sports Plus 2
 
 #EXTINF:-1 tvg-id="AstroSportsPlus3" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",819 Astro Sports Plus 3
 
@@ -217,6 +219,12 @@ http://syok.tv:25461/843839483/33999/643
 #EXTINF:-1 tvg-id="beINSports4" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png",827 beIN Sports 4
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png",828 beIN Sports 5
+
+#EXTINF:-1 tvg-id="astro616" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroTennis.png",819 Astro Tennis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e5ed3d8667b8722424add3417525f10:9612322dfc5750a0f5b0d686661ef82e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 
 #------⚽ SPORTS ------#
 
