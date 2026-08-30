@@ -229,22 +229,44 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 #------⚽ SPORTS ------#
 
 #EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="⚽ SPORTS", Hub Premier 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314077.m3u8
 
 #EXTINF:-1tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2"  tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="⚽ SPORTS", Hub Premier 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314078.m3u8
+#EXTINF:-1 tvg-uid="98c431791d23440a0f7e995037d1fd90" data-source="Macportal3" group-title="⚽ SPORTS",TNT Sports EVENT 4K
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1479591.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 1 🇬🇧
-http://wickediptv.xyz/Randall123/Randall321/53850
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/J4JWgPx.png" group-title="⚽ SPORTS" group-logo="https://i.imgur.com/z86IU4E.png" tvg-id="TNT Sports 1.uk" tvg-name="TNT Sports 1.uk",TNT Sports 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 2 🇬🇧
-http://wickediptv.xyz/Randall123/Randall321/53851
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Hp393XI.png" group-title="⚽ SPORTS" group-logo="https://i.imgur.com/z86IU4E.png" tvg-id="TNT Sports 2.uk" tvg-name="TNT Sports 2.uk",TNT Sports 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 3 🇬🇧
-http://wickediptv.xyz/Randall123/Randall321/53852
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Pb4cL6K.png" group-title="⚽ SPORTS" group-logo="https://i.imgur.com/z86IU4E.png" tvg-id="TNT Sports 3.uk" tvg-name="TNT Sports 3.uk",TNT Sports 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="⚽ SPORTS",TNT Sports 4 🇬🇧
-http://wickediptv.xyz/Randall123/Randall321/53853
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/E2UhO3Q.png" group-title="⚽ SPORTS" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 4.uk" tvg-name="TNT Sports 4.uk",TNT Sports 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/500px-CBS_Sports_Network_2021.svg.png" group-title="⚽ SPORTS",CBS Sports Network
 https://restream-live.realiptv.to/2879115/5077048/3712
@@ -268,12 +290,10 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="⚽ SPORTS",Sky Sports Main Event 4K UK
 https://xemzi.short.gy/2000015
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League 🇬🇧 (b2)
-http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7335/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League (Backup)
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/702
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://lo1.in/ger/SKY%20SPORT%20PREMIER%20LEAGUE.png" group-title="⚽ SPORTS",SKY SPORT PREMIER LEAGUE FHD
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-premier-league.png"  group-title="⚽ SPORTS", Sky Sports Premier League (NZ)
 http://liontv.es:8080/Isabellagos/tSjdeprawg/1620615
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://lo1.in/ger/SKY%20SPORT%20PREMIER%20LEAGUE.png" group-title="⚽ SPORTS",SKY SPORT PREMIER LEAGUE FHD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1100810.ts
 
 #EXTINF:-1 tvg-id="formula11230f1tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="⚽ SPORTS",F1 TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
