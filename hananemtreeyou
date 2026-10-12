@@ -1893,10 +1893,13 @@ https://22273.live.streamtheworld.com/SARAWAK_FMAAC.aac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro193" tvg-name="MY: Astro Ria (2026)" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="ASTRO (SYOK.TV)", MY: Astro Ria (2026)
+http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 tvg-id="astro193" tvg-name="MY: Astro Ria [A]" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="ASTRO (SYOK.TV)", MY: Astro Ria [A]
-http://syok.tv:25461/843839483/33999/18
+#http://syok.tv:25461/843839483/33999/18
 #EXTINF:-1 tvg-id="astro193" tvg-name="MY: Astro Ria [B]" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="ASTRO (SYOK.TV)", MY: Astro Ria [B]
-http://syok.tv:25461/843839483/33999/19
+#http://syok.tv:25461/843839483/33999/19
 #EXTINF:-1 tvg-id="astro316" tvg-name="MY: Astro Prima [A]" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="ASTRO (SYOK.TV)", MY: Astro Prima [A]
 http://syok.tv:25461/843839483/33999/20
 #EXTINF:-1 tvg-id="astro316" tvg-name="MY: Astro Prima [B]" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="ASTRO (SYOK.TV)", MY: Astro Prima [B]
@@ -1973,7 +1976,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 
 #------⚽ SPORTS ------#
 
-
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 1 (HK)
+http://tv.cloudcdn.me/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 2 (HK)
+http://tv.cloudcdn.me/live.ts?channelId=129129&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2025,6 +2031,9 @@ http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/57432.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/MUTV.png" group-title="⚽ SPORTS",MUTV
 https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTMyODAxMTIifQ.CpuijBxTUYZTaso6UHbVTjXMcRD3m5x7cL4ygwCFL48/playlist-dash.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="⚽ SPORTS",NBA TV (US) 
+http://23.237.104.106:8080/USA_NBA/index.m3u8 
 
 #------⚽ PREMIER LEAGUE ------#
 #EXTINF:-1 group-title="⚽ PREMIER LEAGUE" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png",PREMIER LEAGUE TV
