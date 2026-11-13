@@ -761,8 +761,15 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 
 
 ##################################################################### Astro ###########################################################################
-
-
+#EXTINF:-1 tvg-id="TV1.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv1-my.png" group-title="MY TV" tvg-status="not-working",TV1
+http://tivoku.org/127361009115554/iRTdSQfqDN/1052624
+#EXTINF:-1 tvg-id="TV2.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv2-my.png" group-title="MY TV" tvg-status="unstable",TV2
+http://tivoku.org/127361009115554/iRTdSQfqDN/260557
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv3-my.png" group-title="MY TV" tvg-status="unstable",TV3
+http://tivoku.org/127361009115554/iRTdSQfqDN/1052628
+#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv-okey-my.png" group-title="#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv-okey-my.png" group-title="Malaysia" tvg-status="unstable",TV Okey
+http://tivoku.org/127361009115554/iRTdSQfqDN/1052621" tvg-status="unstable",TV Okey
+http://tivoku.org/127361009115554/iRTdSQfqDN/1052621
 ##############################################################################Sports################################################################################
 
 #EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="Sports" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_sports.png",801 Astro Arena
@@ -1003,6 +1010,9 @@ http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
 http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1119956.m3u8
+
+#EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-ria-my.png" group-title="ASTRO 3 SERANGKAI" tvg-status="unstable",Astro Ria
+http://tivoku.org/127361009115554/iRTdSQfqDN/1119956
 
 #------⚽ SPORTS ------#
 
