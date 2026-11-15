@@ -767,8 +767,7 @@ http://tivoku.org/127361009115554/iRTdSQfqDN/1052624
 http://tivoku.org/127361009115554/iRTdSQfqDN/260557
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv3-my.png" group-title="MY TV" tvg-status="unstable",TV3
 http://tivoku.org/127361009115554/iRTdSQfqDN/1052628
-#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv-okey-my.png" group-title="#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv-okey-my.png" group-title="Malaysia" tvg-status="unstable",TV Okey
-http://tivoku.org/127361009115554/iRTdSQfqDN/1052621" tvg-status="unstable",TV Okey
+#EXTINF:-1 tvg-id="TV.Okey.HD.my" group-title="MY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/tv-okey-my.png" tvg-status="unstable",TV Okey
 http://tivoku.org/127361009115554/iRTdSQfqDN/1052621
 ##############################################################################Sports################################################################################
 
@@ -1430,6 +1429,10 @@ http://tvmate.icu:8080/gracey2448@gmail.com/gracey2448@96/325214
 http://tvmate.icu:8080/gracey2448@gmail.com/gracey2448@96/325160
 #EXTINF:-1 group-title="📺 24/7",24/7 MR BEAN ANIMATED
 http://tvmate.icu:8080/gracey2448@gmail.com/gracey2448@96/325250
+#EXTINF:-1 tvg-id="tvg-id-channel75" tvg-name="24/7: Avengers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/6d95f16fe712db16fa933b56e529bbcb.jpg" group-title="📺 24/7",24/7: Avengers Movies
+http://mains.services/live/tmo247line/65s4d64vgfdfbae4/686cd2c5-1995-4623-9112-c9d3ea11d174.m3u
+#EXTINF:-1 tvg-id="tvg-id-channel654" tvg-name="24/7: Spider Man Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/a6e3206a5a0b08a42feddd9d6854c104.jpg" group-title="📺 24/7",24/7: Spider Man Movies
+http://mains.services/live/tmo247line/65s4d64vgfdfbae4/6f745006-4726-4e7c-ae65-d46c54309239.m3u
 #EXTINF:-1 tvg-id="tvg-id-channel151" tvg-name="24/7: Chuck" tvg-logo="http://onlytimewilltell.xyz:2086/images/ff34e14d2331cdee874d3df2363f5241.jpg" group-title="📺 24/7",24/7: Chuck
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/f057d792-62fb-4874-a67e-236bdeef49e9.m3u
 #EXTINF:-1 tvg-id="tvg-id-channel104" tvg-name="24/7: Black Mirror" tvg-logo="http://onlytimewilltell.xyz:2086/images/3f37d193130e79f857326c5a0f9fbc97.jpg" group-title="📺 24/7",24/7: Black Mirror
